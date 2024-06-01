@@ -1,0 +1,50 @@
+Informe de Ventas - Cafetería de Grano // Génesis Montero y Natalia Paredes
+
+ANÁLISIS DE VENTA DE LA CAFETERÍA
+
+1) TOTAL DE VENTAS SEMANAL (Lunes-Jueves) DE CADA PRODUCTO:
+Pan de ciabatta: $220000
+Pie de limón: $308000
+Café: $290400
+Té: $160000
+Alfajor: $120000
+
+2) PROMEDIO VENTAS DIARIAS:
+Lunes: $99800.0
+Martes: $60260.0
+Miércoles: $39660.0
+Jueves: $19960.0
+
+INFORME VENTA
+VENTA DE CADA PRODUCTO POR DÍA:
+Ciabatta:
+  -Lunes: $100000
+  -Martes: $60000
+  -Miércoles: $40000
+  -Jueves: $20000
+Pie de Limón:
+  -Lunes: $140000
+  -Martes: $87500
+  -Miércoles: $52500
+  -Jueves: $28000
+Café:
+  -Lunes: $132000
+  -Martes: $77000
+  -Miércoles: $55000
+  -Jueves: $26400
+Té:
+  -Lunes: $72000
+  -Martes: $44800
+  -Miércoles: $28800
+  -Jueves: $14400
+Alfajor:
+  -Lunes: $55000
+  -Martes: $32000
+  -Miércoles: $22000
+  -Jueves: $11000
+
+TOTAL VENTAS POR DÍA:
+Lunes: $499000
+Martes: $301300
+Miércoles: $198300
+Jueves: $99800

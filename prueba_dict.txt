@@ -1,0 +1,1 @@
+Ventillas del pancillo juasjuas:{50: 'Lunes', 'Martes': 30, 'Miércoles': 20, 'Jueves': 10}

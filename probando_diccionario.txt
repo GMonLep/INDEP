@@ -1,0 +1,6 @@
+TOTAL VENTAS SEMANALES CADA PRODUCTO
+[Lunes-Jueves]
+
+PAN CIABATTA
+Venta por unidad: {'Lunes': 50, 'Martes': 30, 'Miércoles': 20, 'Jueves': 10}
+Dinero recaudado por día: {'Lunes': 100000, 'Martes': 60000, 'Miércoles': 40000, 'Jueves': 20000}Dinero total de la semana: 220000
